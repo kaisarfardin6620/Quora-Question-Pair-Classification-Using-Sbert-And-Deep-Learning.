@@ -1,6 +1,5 @@
 # Quora-Question-Pair-Classification-Using-Sbert-And-Deep-Learning.
 
-# Quora Question Pair Classification Using SBERT and Deep Learning
 
 ## 📌 Project Overview
 This project classifies Quora question pairs as either **"duplicate"** (i.e., semantically similar) or **"not duplicate"** using **pretrained SBERT embeddings** and multiple machine learning models, including ANN, LSTM, and Siamese Networks.
